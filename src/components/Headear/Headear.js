@@ -7,7 +7,7 @@ const Headear = () => {
   return (
     <div className="header">
       <div className="logo">
-        <h2 className="text-uppercase text-info"> Education </h2>
+        <h3 className="text-uppercase text-success"> WELCOME tO Educational Website!! </h3>
       </div>
       <nav>
         <NavLink
@@ -23,7 +23,7 @@ const Headear = () => {
         <NavLink
           activeStyle={{
             fontWeight: "bold",
-            color: "green",
+            color: "black",
           }}
           className="link"
           to="/service"
@@ -33,7 +33,7 @@ const Headear = () => {
         <NavLink
           activeStyle={{
             fontWeight: "bold",
-            color: "green",
+            color: "black",
           }}
           className="link"
           to="/about"
@@ -43,7 +43,7 @@ const Headear = () => {
         <NavLink
           activeStyle={{
             fontWeight: "bold",
-            color: "green",
+            color: "black",
           }}
           className="link"
           to="/contact"

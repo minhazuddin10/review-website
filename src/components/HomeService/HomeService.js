@@ -14,7 +14,7 @@ const HomeService = (props) => {
           <Card.Title className="pt-2">{name}</Card.Title>
           <Card.Text>Price: $ {price}</Card.Text>
           <Card.Text>id {id}</Card.Text>
-          <Button className="btn btn-info tex-start text-light">Buy Now</Button>
+          <Button className="btn btn-success tex-start text-light">Buy Now</Button>
         </Card.Body>
       </Card>
     </div>

@@ -45,7 +45,7 @@ const About = () => {
               id="button-addon2"
               className="btn btn-success text-white"
             >
-              Subscribe
+              Submit
             </Button>
           </InputGroup>
         </Col>

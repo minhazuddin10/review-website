@@ -6,9 +6,9 @@ import "bootstrap/dist/css/bootstrap.min.css";
 const AboutUS = () => {
   return (
     <div className="aboutus pt-5">
-      <h2 className="py-4 mb-4">
-        <span className="text-success">About</span> Us
-      </h2>
+      <h1 className="py-4 mb-4">
+         About US
+      </h1>
       <Row>
         <Col>
           <img
@@ -18,10 +18,10 @@ const AboutUS = () => {
           />
         </Col>
         <Col>
-          <h2 className="pt-5">
+          <h1 className="pt-5">
             WELCOME TO
             <span className="text-uppercase text-success"> EDUCATION Website</span>
-          </h2>
+          </h1>
           <p className="text-start">
           Education professionals are needed at every level - from certificates to graduate degrees.
           </p>

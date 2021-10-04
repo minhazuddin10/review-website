@@ -20,9 +20,9 @@ const Home = () => {
     <div className="text-center mx-auto">
       <AboutUS></AboutUS>
       <div className="text-center text-info py-3 mt-5">
-        <h2>
-          <span className="text-dark">Service</span> US
-        </h2>
+        <h1>
+          <span className="text-dark">Our Courses</span>
+        </h1>
       </div>
       <div className="homeService">
         {services.map((service) => (
@@ -31,8 +31,8 @@ const Home = () => {
       </div>
 
       <div className="seeMoreBtn text-center mt-3 ">
-        <Link className="btn btn-info px-4 py-2 text-light fs-4" to="service">
-          see more ...
+        <Link className="btn btn-success px-4 py-2 text-light fs-4" to="service">
+          See More course...
         </Link>
       </div>
 

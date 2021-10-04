@@ -6,7 +6,7 @@ import Button from "@restart/ui/esm/Button";
 const HomeFrom = () => {
   return (
     <div className="mt-5 mx-auto bg-light py-4">
-      <h2 className="py-3">Contact us</h2>
+      <h1 className="py-3">Contact Info</h1>
       <FloatingLabel
         controlId="floatingInput"
         label="Email address"
@@ -32,7 +32,7 @@ const HomeFrom = () => {
           style={{ height: "100px" }}
         />
       </FloatingLabel>
-      <Button className="btn btn-info px-5 py-2  my-3 fs-5" type="submit">
+      <Button className="btn btn-success px-5 py-2  my-3 fs-5" type="submit">
         send
       </Button>
     </div>

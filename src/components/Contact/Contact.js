@@ -6,7 +6,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 const Contact = () => {
   return (
     <div className="mt-5 mx-auto text-center ">
-      <h2 className="py-4 text-center">Contact Info</h2>
+      <h1 className="py-4 text-center">Contact Info</h1>
       <FloatingLabel
         controlId="floatingInput"
         label="Email address"
@@ -32,7 +32,7 @@ const Contact = () => {
           style={{ height: "100px" }}
         />
       </FloatingLabel>
-      <Button className="btn btn-info px-5 py-2  my-3 fs-5" type="submit">
+      <Button className="btn btn-success px-5 py-2  my-3 fs-5" type="submit">
         send us
       </Button>
     </div>
