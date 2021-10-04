@@ -1,0 +1,12 @@
+.notfound {
+  color: red;
+  background-color: rgba(243, 243, 243, 0.884);
+  text-align: center;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.notfound h2 {
+  font-size: 30px;
+}

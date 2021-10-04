@@ -1,0 +1,10 @@
+.seeMoreBtn a {
+  text-decoration: none;
+  color: black;
+}
+.blogs,
+.homeService {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
