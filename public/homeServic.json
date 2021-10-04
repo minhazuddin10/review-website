@@ -3,25 +3,25 @@
   {
     "id": 121,
     "name": "English",
-    "price": 1200,
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHmmZLwsZeAYygUOsIOATOcALTwwenaLZdZg&usqp=CAU"
+    "price": 1500,
+    "img": "https://media.istockphoto.com/photos/learn-english-concept-education-and-career-opportunities-picture-id1051721290?k=20&m=1051721290&s=612x612&w=0&h=1mRAOpJ1_5N5HyyLMSpSywNYJvUFEHvWfBnnvNbhWqs="
   },
   {
     "id": 122,
-    "name": "Arabic",
-    "price": 2000,
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU6qYesw6W8wqOSDyO-27YzfDLFEZzPqBRLg&usqp=CAU"
+    "name": "Biology",
+    "price": 1000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLGYfCRqfD64Ki4DyeRlg-UD52rE5-jg2wbA&usqp=CAU"
   },
   {
     "id": 123,
     "name": "Chemistry",
-    "price": 500,
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd81bbAx06cQUoDtBf5XBBamGiNo6lEMqWrg&usqp=CAU"
+    "price": 1500,
+    "img": "https://png.pngtree.com/png-vector/20190614/ourmid/pngtree-atomnuclearmoleculechemistryscience-flat-color-icon-vect-png-image_1475530.jpg"
   },
   {
     "id": 124,
     "name": "Mathmatics",
-    "price": 1000,
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5sl_1dH91bHKSUYhFjeQ5UmfO4T4rsGeREw&usqp=CAU"
+    "price": 2000,
+    "img": "https://i.pinimg.com/originals/61/2a/50/612a50f7809e5e3989f0a72a1e60cea1.jpg"
   }
   ]

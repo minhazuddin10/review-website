@@ -5,45 +5,33 @@ import { Col, FormControl, InputGroup, Row } from "react-bootstrap";
 const About = () => {
   return (
     <div>
-      <h2>Education About</h2>
+      <h2>EDUCATION ABOUT</h2>
       <p>
-        Education is a process of learning through which we acquire knowledge.
-        It enlightens, empowers, and creates a positive development. Education
-        gives an individual the knowledge and skills to work with virtue. It
-        aids the all-round mental, physical, and intellectual growth and
-        development of an individual.
+      Education is the process of facilitating learning, or the acquisition of knowledge, skills, values, morals, beliefs, and habits. Educational methods include teaching, training, storytelling, discussion and directed research. Education frequently takes place under the guidance of educators; however, learners can also educate themselves. Education can take place in formal or informal settings, and any experience that has a formative effect on the way one thinks, feels, or acts may be considered educational. The methodology of teaching is called pedagogy.
       </p>
       <p>
-        There are three distinct types of Education- Formal Education,
-        Non-Formal Education, and Informal Education. Education aims to change
-        the way of one’s thinking. Academic knowledge provides one leaning on a
-        global scale, while Practical knowledge is acquired for life on the
-        whole.
+      Formal education is commonly divided formally into stages such as preschool or kindergarten, primary school, secondary school and then college, university, or apprenticeship. In most regions, education is compulsory up to a certain age.
       </p>
       <Row>
         <Col>
           <img
             className="w-100"
-            src="https://www.webfulcreations.com/themes/education/wp-content/uploads/sites/2/2016/11/education_bg.jpg"
+            src="https://media.istockphoto.com/photos/back-view-of-elementary-students-raising-their-hands-on-a-class-picture-id1223141903?b=1&k=20&m=1223141903&s=170667a&w=0&h=J4pKZivfi9cxeOd9upRIJo0qOVUJsnGVyc1ud96Q5LQ="
             alt=""
           />
         </Col>
         <Col>
           <h2 className="pt-5">
             WELCOME TO
-            <span className="text-uppercase text-info">EDUCATION Website</span>
+            <span className="text-uppercase text-primary"> EDUCATION Website</span>
           </h2>
           <p className="text-start">
-            Study any topic, anytime. Explore thousands of courses for the
-            lowest price ever!
+          Education professionals are needed at every level - from certificates to graduate degrees. 
+
+
           </p>
           <p className="text-start">
-            We Welcome you to our Education WordPress theme by Webful Creations.
-            Webful Creations have created an amazing WordPress theme which is
-            great for educational institutes and courses. Aliquam erat volutpat.
-            Donec laoreet iaculis elementum. Aliquam ligula nisi, molestie
-            faucibus tortor quis, vulputate imperdiet turpis. In iaculis arcu et
-            aliquam dapibus. Nulla facilisi.
+          Not everyone who studies education wants to be a teacher, which is why SUNY helps online students get started. Explore education opportunities that don't require being in a classroom
           </p>
           <InputGroup className="mb-3  mx-auto mt-3">
             <FormControl
@@ -55,9 +43,9 @@ const About = () => {
             <Button
               variant="outline-secondary"
               id="button-addon2"
-              className="btn btn-info text-light"
+              className="btn btn-success text-white"
             >
-              subscribe
+              Subscribe
             </Button>
           </InputGroup>
         </Col>

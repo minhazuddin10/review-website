@@ -13,7 +13,7 @@ const Headear = () => {
         <NavLink
           activeStyle={{
             fontWeight: "bold",
-            color: "green",
+            color: "black",
           }}
           className="link"
           to="/home"
@@ -51,16 +51,7 @@ const Headear = () => {
           Contact
         </NavLink>
 
-        <NavLink
-          activeStyle={{
-            fontWeight: "bold",
-            color: "green",
-          }}
-          className="link"
-          to="/blogs"
-        >
-          Blogs
-        </NavLink>
+        
       </nav>
     </div>
   );
